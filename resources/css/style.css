@@ -1,0 +1,37 @@
+/*Organic India Application CSS*/
+
+
+/*CSS Variables Defined here*/
+:root {
+	--green:#206747;
+	--blue: #1e90ff;
+	--white: #ffffff;
+}
+/*CSS Variables Defined here*/
+
+
+/*Define Font Family start here*/
+
+@font-face {
+	font-family: 'Whitney-bold';
+	src: url('fonts/sansation_light.woff');
+}
+
+/*Define Font Family ends here*/
+
+/*heights starts here*/
+
+.h-30{
+	height: 30px;
+}
+
+/*heights ends here*/
+
+
+/*backgrounds starts here*/
+
+.bg-green{
+	background-color: var(--green);
+}
+
+/*backgrounds ends here*/

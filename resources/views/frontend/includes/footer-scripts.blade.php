@@ -1,0 +1,1 @@
+<script type="text/javascript" src="{{url('/')}}/assets/js/custom.js"></script>
